@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "720973526935",
+    "firebase_url": "https://cetbussystem.firebaseio.com",
+    "project_id": "cetbussystem",
+    "storage_bucket": "cetbussystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720973526935:android:5ddbb10fac32fc0d",
+        "android_client_info": {
+          "package_name": "com.abhijeet14.cetbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720973526935-8kj3kpqjatit8d5q8f78iaeti1sbn6mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhijeet14.cetbus",
+            "certificate_hash": "a9b5563251c5e46d86fe061bc38d54ab875ea3e8"
+          }
+        },
+        {
+          "client_id": "720973526935-kq9fhaofjfq89g3g2uc75rb51mb45gtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvgC2NL_OfRLAlEwqAswsNd6kkst_po_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720973526935-kq9fhaofjfq89g3g2uc75rb51mb45gtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720973526935:android:6df0fdf5cc6494e5",
+        "android_client_info": {
+          "package_name": "com.example.KumarSunil17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720973526935-kq9fhaofjfq89g3g2uc75rb51mb45gtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvgC2NL_OfRLAlEwqAswsNd6kkst_po_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720973526935:android:7c9ac4aafce0dc8d",
+        "android_client_info": {
+          "package_name": "com.newsapp.cetbusadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720973526935-djkojbdm6lvmef52oklq1rk45cnnauah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newsapp.cetbusadmin",
+            "certificate_hash": "a9b5563251c5e46d86fe061bc38d54ab875ea3e8"
+          }
+        },
+        {
+          "client_id": "720973526935-kq9fhaofjfq89g3g2uc75rb51mb45gtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvgC2NL_OfRLAlEwqAswsNd6kkst_po_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720973526935-kq9fhaofjfq89g3g2uc75rb51mb45gtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
